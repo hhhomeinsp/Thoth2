@@ -1,0 +1,8 @@
+openai==1.42.0
+python-dotenv==1.0.1
+pdfplumber==0.7.6  # For PDF handling, if needed
+python-docx==0.8.11  # For DOCX handling, if needed
+flask==2.3.3  # If you're using Flask as your backend server
+gunicorn==20.1.0  # For deploying the app (optional)
+aider-chat==0.55.0
+litellm==1.44.7
